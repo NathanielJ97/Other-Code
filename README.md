@@ -16,3 +16,8 @@ Object Oriented Programming (C++) <br />
 Mobile Computing (Java, with Android Studio) <br />
 Image Processing (Matlab) <br />
 Software Engineering (C#) <br />
+Parallel Computing (C++) <br />
+Autonomous Mobile Robotics (Python) <br />
+Cross-Platform Development (Javascript, Phonegap Cordova) <br />
+
+Final Year Project Module - Pedestrian Detection Tool (C#, Computer Vision(EmguCV)) <br />
